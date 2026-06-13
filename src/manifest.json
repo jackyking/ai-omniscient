@@ -1,0 +1,27 @@
+{
+  "name": "AI全知通",
+  "appid": "",
+  "description": "AI全知通 - 跨平台AI学习应用",
+  "versionName": "1.0.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "h5": {
+    "title": "AI全知通 - 让AI触手可及",
+    "router": {
+      "mode": "hash"
+    },
+    "devServer": {
+      "port": 5300
+    }
+  },
+  "mp-weixin": {
+    "appid": "",
+    "setting": {
+      "urlCheck": false,
+      "es6": true,
+      "postcss": true,
+      "minified": true
+    },
+    "usingComponents": true
+  }
+}
