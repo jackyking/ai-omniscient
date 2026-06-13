@@ -1,0 +1,34 @@
+{
+  "pages": [
+    { "path": "pages/index/index", "style": { "navigationBarTitleText": "AI全知通" } },
+    { "path": "pages/learn/index", "style": { "navigationBarTitleText": "概念科普" } },
+    { "path": "pages/tools/index", "style": { "navigationBarTitleText": "工具导航" } },
+    { "path": "pages/coding/index", "style": { "navigationBarTitleText": "代码创造营" } },
+    { "path": "pages/news/index", "style": { "navigationBarTitleText": "AI资讯" } },
+    { "path": "pages/community/index", "style": { "navigationBarTitleText": "灵感社区" } },
+    { "path": "pages/detail/index", "style": { "navigationBarTitleText": "详情" } }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "AI全知通",
+    "navigationBarBackgroundColor": "#0F0F1A",
+    "backgroundColor": "#0F0F1A",
+    "backgroundTextStyle": "dark"
+  },
+  "tabBar": {
+    "color": "#71717A",
+    "selectedColor": "#818CF8",
+    "backgroundColor": "#12121F",
+    "borderStyle": "black",
+    "fontSize": "10px",
+    "iconWidth": "24px",
+    "height": "56px",
+    "list": [
+      { "pagePath": "pages/index/index", "text": "首页", "iconPath": "static/tab-home.png", "selectedIconPath": "static/tab-home-active.png" },
+      { "pagePath": "pages/learn/index", "text": "科普", "iconPath": "static/tab-learn.png", "selectedIconPath": "static/tab-learn-active.png" },
+      { "pagePath": "pages/tools/index", "text": "工具", "iconPath": "static/tab-tools.png", "selectedIconPath": "static/tab-tools-active.png" },
+      { "pagePath": "pages/coding/index", "text": "编程", "iconPath": "static/tab-coding.png", "selectedIconPath": "static/tab-coding-active.png" },
+      { "pagePath": "pages/community/index", "text": "社区", "iconPath": "static/tab-community.png", "selectedIconPath": "static/tab-community-active.png" }
+    ]
+  }
+}
