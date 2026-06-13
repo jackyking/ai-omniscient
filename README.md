@@ -2,6 +2,16 @@
 
 一款 AI 知识导航与学习平台，基于 UniApp 跨端开发，支持 H5 / 微信小程序 / App 多端运行。
 
+## 📸 页面预览
+
+| 首页 | 概念科普 | 工具导航 |
+|:---:|:---:|:---:|
+| ![首页](screenshots/home.png) | ![概念科普](screenshots/learn.png) | ![工具导航](screenshots/tools.png) |
+
+| 代码创造营 | AI资讯 | 灵感社区 |
+|:---:|:---:|:---:|
+| ![代码创造营](screenshots/coding.png) | ![AI资讯](screenshots/news.png) | ![灵感社区](screenshots/community.png) |
+
 ## ✨ 功能特性
 
 - **首页** — 精选文章、热门工具、推荐课程一览
